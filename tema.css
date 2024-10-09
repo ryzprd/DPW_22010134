@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    padding: 0px
+    font-family: Arial:
+    
+}
+
+#header{
+    background-color: #333;
+    text-align: center;
+    color: #fff;
+    padding: 50px 0px;
+}
+
+.foto-profile{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.nama{
+    margin-bottom: 0px;
+}
+.profesi{
+    margin: 0px 0px 0px;
+}
+
+
+.nav a{
+    text-decoration: none;
+    color: #fff;
+    padding: 8px;
+    border: 1px solid yellow;
+
+}
+
+.nav a:hover{
+    color: yellow;
+}
+
+#tentang{
+    text-align: center;
+    margin: 1px 50px;
+    border: 1px dashed #333;
+    padding-top: 20px;
+}
